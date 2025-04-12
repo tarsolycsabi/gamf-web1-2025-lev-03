@@ -1,0 +1,15 @@
+
+    #fejlec
+    {
+        font-style: bold;
+        color: blueviolet;
+    }
+    #tablazat
+    {
+        font-style: italic;
+        color: darkblue;
+    }
+
+    ol li.important{
+        color:brown;
+    }
